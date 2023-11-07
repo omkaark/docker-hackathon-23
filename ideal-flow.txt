@@ -1,0 +1,5 @@
+This is the ideal flow for the MVP:
+
+Step 1. User enters model name, user enters dataset name for finetuning
+Step 2. Application fetches, finetunes and creates a docker container and pushes it to dockerhub
+Step 3. Provides the image link to the user
